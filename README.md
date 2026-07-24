@@ -24,6 +24,7 @@ SGDClassifier, RandomForestClassifier.
 ## Divisão das contribuições:
 
 ## Link do vídeo:
+https://drive.google.com/drive/folders/1bcbhb8y6UYjdaHXDLppQ_Rh6w7x98fX_?usp=sharing
 
 ## Declaração de uso de ferramentas de inteligência artificial:
 #### Gemini:
